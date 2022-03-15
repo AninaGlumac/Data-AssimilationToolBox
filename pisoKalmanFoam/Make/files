@@ -1,0 +1,4 @@
+pisoKalmanFoam.C
+
+EXE = $(FOAM_APPBIN)/pisoKalmanFoam
+
